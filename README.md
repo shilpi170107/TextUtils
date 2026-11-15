@@ -16,6 +16,7 @@ TextUtils is a text manipulation web application built using **React.js and Boot
 - React.js
 - Bootstrap
 - HTML5
+- CSS
 
 ## 📸 Screenshots
 
@@ -24,6 +25,10 @@ TextUtils is a text manipulation web application built using **React.js and Boot
 
 ### Lowercase Conversion
 <img src="Screenshot 2026-11-16 003029.png" alt="Lowercase Conversion" width="100%">
+
+🌐 Live Demo
+
+[View TextUtils Live](https://textutilsbyshilpi.vercel.app/)
 
 ## 👩‍💻 Author
 
